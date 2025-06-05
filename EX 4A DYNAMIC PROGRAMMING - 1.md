@@ -12,8 +12,8 @@ Print the matching characters along the path.
 Program:
 Program to implement the longest common subsequence using Dynamic Programming
 
-Developed by: Vijay Shankar M
-Register Number: 212222040178
+Developed by: Sathish Kumar M
+Register Number: 212222040150
 
 def lcs(u, v):
     """Return c where c[i][j] contains length of LCS of u[i:] and v[j:]."""
